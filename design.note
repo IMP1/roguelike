@@ -1,0 +1,43 @@
+# Roguelike Design
+
+## Window Design
+
+Default grid of X by X (14px?)
+
+Windows within screen (delineated by a border)
+
+Windows can have subdivided grid sizes (for better text readability and fitting more in, or for a minimap or something)
+Windows can also have different fonts (obvs if they have different size tiles then need different size font)
+
+Each tile of a grid can have a background colour, a text colour, and a character/glyph.
+
+## General Design
+
+Development Overview:
+https://www.gamasutra.com/blogs/JoshGe/20181029/329512/How_to_Make_a_Roguelike.php
+
+## Font Chat
+
+Cool articles by dev of Cogmind
+
+  * https://www.gridsagegames.com/blog/2014/09/fonts-in-roguelikes/
+  * https://www.gridsagegames.com/blog/2014/09/font-creation/
+  * https://www.gridsagegames.com/blog/2014/09/cogmind-fonts/
+  * https://www.gridsagegames.com/blog/2015/07/readable-text-fonts-roguelikes/
+
+## Concept Art
+
+Pirate Ship:
+https://www.gridsagegames.com/blog/gsg-content/uploads/2018/10/r-piraterogue.png
+
+Character Reference:
+https://www.rockpapershotgun.com/images/may08/SL_Zascii_rps.jpg
+
+## Window Ideas
+
+Character Information (health, level, etc)
+Inventory
+Map
+Log
+Help
+
